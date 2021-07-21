@@ -3,9 +3,9 @@ The project was under internshala's Ethical Hacking training where one had to to
 
 The repo is a complilation of these vulnerabilites, where they were found, how they can be reproduced and how to resolve them.
 
-#What I did:
-- Tested and E-commerece website.
-- Searched for bugs/vulnerabilites troughout the website.
-- Tried exploits to retrieve senstive data.
-- Suggested steps to resolve these issues.
-- Created a Detailed Developer Report.
+## What I did:
+> - Tested and E-commerece website.
+> - Searched for bugs/vulnerabilites troughout the website.
+> - Tried exploits to retrieve senstive data.
+> - Suggested steps to resolve these issues.
+> - Created a Detailed Developer Report.
